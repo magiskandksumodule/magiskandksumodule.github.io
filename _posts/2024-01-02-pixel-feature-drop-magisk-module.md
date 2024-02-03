@@ -10,7 +10,7 @@ Do you want to enjoy the Pixel experience on your Android device without buying 
 
 ## What is Pixel Feature Drops Magisk Module?
 
-Pixel Feature Drops is a Magisk module created by [ayush5harma](^1^), a developer on GitHub. It adds the system files for the Pixel feature drops and spoofs the device fingerprint to the latest Pixel device. This way, you can get access to some exclusive Pixel features that are normally not available on other devices.
+Pixel Feature Drops is a Magisk module created by ayush5harma, a developer on GitHub. It adds the system files for the Pixel feature drops and spoofs the device fingerprint to the latest Pixel device. This way, you can get access to some exclusive Pixel features that are normally not available on other devices.
 
 Some of the features that this module enables are:
 
