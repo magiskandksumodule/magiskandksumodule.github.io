@@ -4,68 +4,57 @@ title: Contact Us
 lang: eng
 permalink: /contact-us
 ---
-<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - Android Tweak 4 All</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        p {
-            color: #666;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-    </style>
+    <title>Magisk and KSUModule - Contact Us</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    <div class="container">
-        <header>
-            <h1>Contact Us - Android Tweak 4 All </h1>
-        </header>
+    <header>
+        <h1>Magisk and KSUModule</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/modules">Modules</a>
+            </nav>
+    </header>
 
-        <section>
-            <p>We'd love to hear from you! Feel free to reach out through the following channels:</p>
-        </section>
+    <main>
+        <h1>Contact Us</h1>
 
-        <section>
-            <h2>Email</h2>
-            <p>If you have any questions or inquiries, you can email us at <a href="mailto:bestmagiskmodule@gmail.com">androidtweak4all@gmail.com</a>.</p>
-        </section>
+        <p>We're happy to hear from you! Whether you have a question, suggestion, or feedback, please don't hesitate to reach out using one of the methods below.</p>
 
-        <section>
-            <h2>Telegram</h2>
-            <p>For real-time communication and community discussions, join us on Telegram: <a href="https://t.me/vbmeta_img" target="_blank">Androidtweak4all Telegram</a>.</p>
-        </section>
+        <h2>Contact Options</h2>
 
-        <section>
-            <h2>Connect With Us on Social Media</h2>
-            <p>Follow us on social media for the latest updates, news, and discussions:</p>
-            <ul>
-                
-                <li>GitHub: <a href="https://github.com/androidtweak4all" target="_blank">androidtweak4all</a></li>
-            </ul>
-        </section>
+        <form id="contact-form">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
 
-        <section>
-            <h2>We're Here to Assist You!</h2>
-            <p>Don't hesitate to contact us with your inquiries, feedback, or suggestions. Our team is ready to assist you on your Magisk module journey!</p>
-        </section>
-    </div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send Message</button>
+        </form>
+
+        <h2>Additional Resources</h2>
+
+        <p>You can also find us on the following platforms:</p>
+
+        <ul>
+            <li><a href="https://t.me/godTspeed" target="_blank">Telegram</a></li>
+            <li><a href="github.com/magiskandksumodule" target="_blank">GitHub</a></li>
+        </ul>
+
+    </main>
+
+
+
+    <script src="script.js"></script>
 </body>
-
 </html>
+
+
