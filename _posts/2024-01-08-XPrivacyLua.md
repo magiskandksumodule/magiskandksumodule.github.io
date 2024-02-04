@@ -30,7 +30,7 @@ XPrivacyLua is a Magisk Module that leverages the Xposed Framework to provide ad
 
 ### Steps:
 1. **Download XPrivacyLua Module:**
-   - Visit the [XPrivacyLua GitHub Repository(https://github.com/M66B/XPrivacyLua).
+   - Visit the [XPrivacyLua GitHub Repository](https://github.com/M66B/XPrivacyLua).
    - Download the latest release ZIP file.
 
 2. **Install XPrivacyLua Module via Magisk Manager:**
