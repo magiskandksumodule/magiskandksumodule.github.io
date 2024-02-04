@@ -28,7 +28,7 @@ This module is compatible with devices equipped with the Adreno 630 GPU. Make su
 
 ## Installation
 
-1. Download the [Adreno 630 GPU Driver Magisk Module](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/releases/latest/download/adreno-630-gpu-driver.zip).
+1. Download the [Adreno 630 GPU Driver Magisk Module](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/releases).
 
 2. Open the Magisk Manager app on your rooted device.
 
@@ -44,7 +44,4 @@ This module is compatible with devices equipped with the Adreno 630 GPU. Make su
 
 If you encounter any issues or have suggestions for improvement, please feel free to open an [issue](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/issues) or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/blob/main/LICENSE).
 
