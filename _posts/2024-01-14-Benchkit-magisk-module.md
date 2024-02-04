@@ -61,10 +61,6 @@ If you encounter any issues or have questions, check the [Benchkit Wiki](https:/
 
 Feel free to contribute to the development of Benchkit by submitting issues or pull requests on the [GitHub repository](https://github.com/Magisk-Modules-Repo/benchkit).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 Special thanks to the developers and contributors who have made Benchkit possible.
