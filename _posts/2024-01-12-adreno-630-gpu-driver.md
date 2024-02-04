@@ -10,7 +10,7 @@ tagline: Enhance GPU performance on your Android device with Adreno 630 GPU Driv
 
 [![GitHub issues](https://img.shields.io/github/issues/Magisk-Modules-Repo/adreno-630-gpu-driver)](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Magisk-Modules-Repo/adreno-630-gpu-driver)](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/stargazers)
-[![GitHub license](https://img.shields.io/github/license/Magisk-Modules-Repo/adreno-630-gpu-driver)](https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/blob/main/LICENSE)
+
 
 ## Overview
 
