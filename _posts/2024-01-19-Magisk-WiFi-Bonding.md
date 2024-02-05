@@ -37,10 +37,8 @@ WiFi Bonding is a revolutionary Magisk module that allows you to combine multipl
 
 ## Compatibility
 
-WiFi Bonding is compatible with a wide range of Android devices. However, it's essential to ensure that your device's firmware supports the module. Please check the [compatibility list](insert-link-here) to confirm that your device is supported.
-
+WiFi Bonding is compatible with a wide range of Android devices. However, it's essential to ensure that your device's firmware supports the module.
 ## Conclusion
-
 Say goodbye to slow and unreliable Wi-Fi connections! WiFi Bonding Magisk module empowers you to take control of your internet speed and enjoy a seamless online experience. Download the module now and experience the difference.
 
 For any issues, feedback, or additional information, please visit the [GitHub repository](https://github.com/Magisk-Modules-Repo/wifi-bonding).
